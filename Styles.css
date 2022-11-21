@@ -1,0 +1,29 @@
+
+a{
+    text-decoration:none;
+    color:red;
+    background:pink;
+    border-radius:5px;
+    padding:5px 15px 5px 15px;
+    margin-left:15px;
+    transition-duration:1.2s;
+    }
+    nav{
+    
+    text-align:right;
+    background:green;
+    }
+    a:hover{
+    background:orange;
+    }
+h1{
+    text-align: center;
+}
+.aligncenter {
+    text-align: right;
+}
+footer{
+    padding: 75px;
+    border: 2px;
+background-color: green;
+}
